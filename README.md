@@ -12,3 +12,9 @@ usage: scp [file origin] [username]@[address]:[destination]
 ```
 curl ifconfig.me
 ```
+
+### To see disk usage
+```
+df -h
+```
+-h for human-readable format
