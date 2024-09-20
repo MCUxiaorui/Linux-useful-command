@@ -19,9 +19,26 @@ df -h
 ```
 -h for human-readable format
 
+### CLI system monitor
+```
+top
+```
+
+### To see Memory usage
+```
+free
+```
+* -m to display in MB
+* -g to display in GB
+
+### Network Adaptor manager --CLI w/ GUI
+```
+nmtui
+```
+
 ## Software specific:
 
-### To delete externally-managed python error
+### To deal with externally-managed python error
 ```
 sudo rm /usr/lib/python3.*/EXTERNALLY-MANAGED
 ```
