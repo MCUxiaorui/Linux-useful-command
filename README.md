@@ -18,3 +18,10 @@ curl ifconfig.me
 df -h
 ```
 -h for human-readable format
+
+## Software specific:
+
+### To delete externally-managed python error
+```
+sudo rm /usr/lib/python3.*/EXTERNALLY-MANAGED
+```
