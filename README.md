@@ -35,6 +35,11 @@ free
 ```
 nmtui
 ```
+## System Level
+
+``ctl`` + ``alt`` + ``F1`` is a short cut to force into text console
+
+the number in F1 or F2 is used to force into tty1 or tty2. Linux use tty1 as default for outputing kernal info.
 
 ## Software specific:
 
